@@ -1,2 +1,1 @@
-# alx-system_engineering_devops
-script that print path name
+ script that prints the absolute path name of the current working directory
